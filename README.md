@@ -10,42 +10,52 @@ The CPP Module project is designed to introduce Object-Oriented Programming conc
 
 ### Module 00: Basics
 Introduction to C++, classes, member functions, and basic concepts.
+
 [Subject PDF](00/subject/subject.pdf)
 
 ### Module 01: Memory allocation
 Pointers to members, references, and switch statements.
+
 [Subject PDF](01/subject/subject.pdf)
 
 ### Module 02: Ad-hoc polymorphism
 Operator overloading and orthodox canonical class form.
+
 [Subject PDF](02/subject/subject.pdf)
 
 ### Module 03: Inheritance
 Inheritance and its implementation in C++.
+
 [Subject PDF](03/subject/subject.pdf)
 
 ### Module 04: Subtype polymorphism
 Abstract classes and interfaces.
+
 [Subject PDF](04/subject/subject.pdf)
 
 ### Module 05: Exceptions
 Exception handling in C++.
+
 [Subject PDF](05/subject/subject.pdf)
 
 ### Module 06: Casts
 Different types of casts in C++.
+
 [Subject PDF](06/subject/subject.pdf)
 
 ### Module 07: Templates
 Template programming in C++.
+
 [Subject PDF](07/subject/subject.pdf)
 
 ### Module 08: Containers
 STL containers, iterators, and algorithms.
+
 [Subject PDF](08/subject/subject.pdf)
 
 ### Module 09: STL
 Advanced use of STL.
+
 [Subject PDF](09/subject/subject.pdf)
 
 ## Compilation
